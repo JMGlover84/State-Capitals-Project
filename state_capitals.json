@@ -1,0 +1,402 @@
+[
+  {
+    "state": "Alabama",
+    "capital": "Montgomery",
+    "address": "600 Dexter Ave",
+    "city": "Montgomery",
+    "state_abbr": "AL",
+    "zip": "36130"
+  },
+  {
+    "state": "Alaska",
+    "capital": "Juneau",
+    "address": "120 4th St",
+    "city": "Juneau",
+    "state_abbr": "AK",
+    "zip": "99801"
+  },
+  {
+    "state": "Arizona",
+    "capital": "Phoenix",
+    "address": "1700 W Washington St",
+    "city": "Phoenix",
+    "state_abbr": "AZ",
+    "zip": "85007"
+  },
+  {
+    "state": "Arkansas",
+    "capital": "Little Rock",
+    "address": "500 Woodlane St",
+    "city": "Little Rock",
+    "state_abbr": "AR",
+    "zip": "72201"
+  },
+  {
+    "state": "California",
+    "capital": "Sacramento",
+    "address": "1315 10th St",
+    "city": "Sacramento",
+    "state_abbr": "CA",
+    "zip": "95814"
+  },
+  {
+    "state": "Colorado",
+    "capital": "Denver",
+    "address": "200 E Colfax Ave",
+    "city": "Denver",
+    "state_abbr": "CO",
+    "zip": "80203"
+  },
+  {
+    "state": "Connecticut",
+    "capital": "Hartford",
+    "address": "210 Capitol Ave",
+    "city": "Hartford",
+    "state_abbr": "CT",
+    "zip": "06106"
+  },
+  {
+    "state": "Delaware",
+    "capital": "Dover",
+    "address": "411 Legislative Ave",
+    "city": "Dover",
+    "state_abbr": "DE",
+    "zip": "19901"
+  },
+  {
+    "state": "Florida",
+    "capital": "Tallahassee",
+    "address": "400 S Monroe St",
+    "city": "Tallahassee",
+    "state_abbr": "FL",
+    "zip": "32399"
+  },
+  {
+    "state": "Georgia",
+    "capital": "Atlanta",
+    "address": "206 Washington St SW",
+    "city": "Atlanta",
+    "state_abbr": "GA",
+    "zip": "30334"
+  },
+  {
+    "state": "Hawaii",
+    "capital": "Honolulu",
+    "address": "415 S Beretania St",
+    "city": "Honolulu",
+    "state_abbr": "HI",
+    "zip": "96813"
+  },
+  {
+    "state": "Idaho",
+    "capital": "Boise",
+    "address": "700 W Jefferson St",
+    "city": "Boise",
+    "state_abbr": "ID",
+    "zip": "83702"
+  },
+  {
+    "state": "Illinois",
+    "capital": "Springfield",
+    "address": "301 S 2nd St",
+    "city": "Springfield",
+    "state_abbr": "IL",
+    "zip": "62701"
+  },
+  {
+    "state": "Indiana",
+    "capital": "Indianapolis",
+    "address": "200 W Washington St",
+    "city": "Indianapolis",
+    "state_abbr": "IN",
+    "zip": "46204"
+  },
+  {
+    "state": "Iowa",
+    "capital": "Des Moines",
+    "address": "1007 E Grand Ave",
+    "city": "Des Moines",
+    "state_abbr": "IA",
+    "zip": "50319"
+  },
+  {
+    "state": "Kansas",
+    "capital": "Topeka",
+    "address": "300 SW 10th Ave",
+    "city": "Topeka",
+    "state_abbr": "KS",
+    "zip": "66612"
+  },
+  {
+    "state": "Kentucky",
+    "capital": "Frankfort",
+    "address": "700 Capitol Ave",
+    "city": "Frankfort",
+    "state_abbr": "KY",
+    "zip": "40601"
+  },
+  {
+    "state": "Louisiana",
+    "capital": "Baton Rouge",
+    "address": "900 N 3rd St",
+    "city": "Baton Rouge",
+    "state_abbr": "LA",
+    "zip": "70802"
+  },
+  {
+    "state": "Maine",
+    "capital": "Augusta",
+    "address": "210 State St",
+    "city": "Augusta",
+    "state_abbr": "ME",
+    "zip": "04333"
+  },
+  {
+    "state": "Maryland",
+    "capital": "Annapolis",
+    "address": "100 State Cir",
+    "city": "Annapolis",
+    "state_abbr": "MD",
+    "zip": "21401"
+  },
+  {
+    "state": "Massachusetts",
+    "capital": "Boston",
+    "address": "24 Beacon St",
+    "city": "Boston",
+    "state_abbr": "MA",
+    "zip": "02133"
+  },
+  {
+    "state": "Michigan",
+    "capital": "Lansing",
+    "address": "100 N Capitol Ave",
+    "city": "Lansing",
+    "state_abbr": "MI",
+    "zip": "48933"
+  },
+  {
+    "state": "Minnesota",
+    "capital": "Saint Paul",
+    "address": "75 Rev Dr Martin Luther King Jr Blvd",
+    "city": "Saint Paul",
+    "state_abbr": "MN",
+    "zip": "55155"
+  },
+  {
+    "state": "Mississippi",
+    "capital": "Jackson",
+    "address": "400 High St",
+    "city": "Jackson",
+    "state_abbr": "MS",
+    "zip": "39201"
+  },
+  {
+    "state": "Missouri",
+    "capital": "Jefferson City",
+    "address": "201 W Capitol Ave",
+    "city": "Jefferson City",
+    "state_abbr": "MO",
+    "zip": "65101"
+  },
+  {
+    "state": "Montana",
+    "capital": "Helena",
+    "address": "1301 E 6th Ave",
+    "city": "Helena",
+    "state_abbr": "MT",
+    "zip": "59620"
+  },
+  {
+    "state": "Nebraska",
+    "capital": "Lincoln",
+    "address": "1445 K St",
+    "city": "Lincoln",
+    "state_abbr": "NE",
+    "zip": "68509"
+  },
+  {
+    "state": "Nevada",
+    "capital": "Carson City",
+    "address": "101 N Carson St",
+    "city": "Carson City",
+    "state_abbr": "NV",
+    "zip": "89701"
+  },
+  {
+    "state": "New Hampshire",
+    "capital": "Concord",
+    "address": "107 N Main St",
+    "city": "Concord",
+    "state_abbr": "NH",
+    "zip": "03301"
+  },
+  {
+    "state": "New Jersey",
+    "capital": "Trenton",
+    "address": "125 W State St",
+    "city": "Trenton",
+    "state_abbr": "NJ",
+    "zip": "08608"
+  },
+  {
+    "state": "New Mexico",
+    "capital": "Santa Fe",
+    "address": "490 Old Santa Fe Trail",
+    "city": "Santa Fe",
+    "state_abbr": "NM",
+    "zip": "87501"
+  },
+  {
+    "state": "New York",
+    "capital": "Albany",
+    "address": "State St & Washington Ave",
+    "city": "Albany",
+    "state_abbr": "NY",
+    "zip": "12224"
+  },
+  {
+    "state": "North Carolina",
+    "capital": "Raleigh",
+    "address": "1 E Edenton St",
+    "city": "Raleigh",
+    "state_abbr": "NC",
+    "zip": "27601"
+  },
+  {
+    "state": "North Dakota",
+    "capital": "Bismarck",
+    "address": "600 E Boulevard Ave",
+    "city": "Bismarck",
+    "state_abbr": "ND",
+    "zip": "58505"
+  },
+  {
+    "state": "Ohio",
+    "capital": "Columbus",
+    "address": "1 Capitol Square",
+    "city": "Columbus",
+    "state_abbr": "OH",
+    "zip": "43215"
+  },
+  {
+    "state": "Oklahoma",
+    "capital": "Oklahoma City",
+    "address": "2300 N Lincoln Blvd",
+    "city": "Oklahoma City",
+    "state_abbr": "OK",
+    "zip": "73105"
+  },
+  {
+    "state": "Oregon",
+    "capital": "Salem",
+    "address": "900 Court St NE",
+    "city": "Salem",
+    "state_abbr": "OR",
+    "zip": "97301"
+  },
+  {
+    "state": "Pennsylvania",
+    "capital": "Harrisburg",
+    "address": "501 N 3rd St",
+    "city": "Harrisburg",
+    "state_abbr": "PA",
+    "zip": "17120"
+  },
+  {
+    "state": "Rhode Island",
+    "capital": "Providence",
+    "address": "82 Smith St",
+    "city": "Providence",
+    "state_abbr": "RI",
+    "zip": "02903"
+  },
+  {
+    "state": "South Carolina",
+    "capital": "Columbia",
+    "address": "1100 Gervais St",
+    "city": "Columbia",
+    "state_abbr": "SC",
+    "zip": "29201"
+  },
+  {
+    "state": "South Dakota",
+    "capital": "Pierre",
+    "address": "500 E Capitol Ave",
+    "city": "Pierre",
+    "state_abbr": "SD",
+    "zip": "57501"
+  },
+  {
+    "state": "Tennessee",
+    "capital": "Nashville",
+    "address": "600 Dr M L King Jr Blvd",
+    "city": "Nashville",
+    "state_abbr": "TN",
+    "zip": "37243"
+  },
+  {
+    "state": "Texas",
+    "capital": "Austin",
+    "address": "1100 Congress Ave",
+    "city": "Austin",
+    "state_abbr": "TX",
+    "zip": "78701"
+  },
+  {
+    "state": "Utah",
+    "capital": "Salt Lake City",
+    "address": "350 N State St",
+    "city": "Salt Lake City",
+    "state_abbr": "UT",
+    "zip": "84114"
+  },
+  {
+    "state": "Vermont",
+    "capital": "Montpelier",
+    "address": "115 State St",
+    "city": "Montpelier",
+    "state_abbr": "VT",
+    "zip": "05633"
+  },
+  {
+    "state": "Virginia",
+    "capital": "Richmond",
+    "address": "1000 Bank St",
+    "city": "Richmond",
+    "state_abbr": "VA",
+    "zip": "23219"
+  },
+  {
+    "state": "Washington",
+    "capital": "Olympia",
+    "address": "416 Sid Snyder Ave SW",
+    "city": "Olympia",
+    "state_abbr": "WA",
+    "zip": "98504"
+  },
+  {
+    "state": "West Virginia",
+    "capital": "Charleston",
+    "address": "1900 Kanawha Blvd E",
+    "city": "Charleston",
+    "state_abbr": "WV",
+    "zip": "25305"
+  },
+  {
+    "state": "Wisconsin",
+    "capital": "Madison",
+    "address": "2 E Main St",
+    "city": "Madison",
+    "state_abbr": "WI",
+    "zip": "53702"
+  },
+  {
+    "state": "Wyoming",
+    "capital": "Cheyenne",
+    "address": "2300 Capitol Ave",
+    "city": "Cheyenne",
+    "state_abbr": "WY",
+    "zip": "82001"
+  }
+]
